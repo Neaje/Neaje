@@ -19,7 +19,7 @@ Neaje@chronic: ~/Nejae (main⚡)$ neofetch
 
 ```csharp
 My Profile ver. 1.0.0 : 
-----------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 Username: Neaje 「ネアヘ」
 Whoami: Cyberdefense Engineer Student
 OS: macOS Sonoma 14.5
@@ -32,16 +32,18 @@ Location: France
 <br>
 
 <div>
-    <h2 align="center">Skills </h2>
+    <h2 align="center"></h2>
 </div>
+<br>
     <p align = "center">
          <a href="https://skillicons.dev">
             <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,github,docker,py,php,&perline=8"alt="My Skills"> 
         </a>
     </p>
 
-<h2 align = "center">Stats</h2>
-<div> 
+<h2 align = "center"></h2>
+<br>
+<div>
     <p align = "center">
         </a><!--change language to japanese locale=jp-->
         <a href="https://github.com/ryo-ma/github-profile-trophy">
