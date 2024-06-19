@@ -21,7 +21,7 @@ Neaje@chronic: ~/Nejae (main⚡)$ neofetch
 My Profile ver. 1.0.0 : 
 --------------------------------------------------------------------------------
 Username: Neaje 「ネアヘ」
-Whoami: Cyberdefense Engineer Student
+Whoami: Infosec Student
 OS: macOS Sonoma 14.5
 Shell: zsh 5.8.1
 Location: France
